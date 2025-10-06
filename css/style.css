@@ -1,0 +1,83 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 80%;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 0 auto;
+}
+
+.menu{
+    padding: 12px 0;
+}
+
+.menu-item{
+    display: inline-block;
+    padding: 0 6px;
+}
+
+.menu-link{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.emogi{ 
+    color: #201c1c;
+}
+
+.sobre-mim{
+    color: #ff0000;
+}
+
+.ex-academica{
+    color: #1900ff;
+}
+
+.ex-profissional{
+    color: #009500;
+}
+
+.linkedin{
+    color: #115151;
+}
+
+.header{
+    background-color: #00ffff;
+    margin-bottom: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.objetivo{
+    border-width: 1px;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 8px;
+    padding: 24px;
+    background-color: #c0ff8c;
+}
+
+.paragrafos{
+    border-width: 1px;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 8px;
+    padding: 24px;
+    background-color: #c0ff8c;
+    margin: 5px 0;
+}
+
+.paragrafos:first-child{
+    margin-top: 0px;
+}
+
+.box{
+    width: 48%;
+    display: inline-block;
+    vertical-align: top;
+}
