@@ -14,6 +14,13 @@ Projeto Frontend de um site bonitão
 
 # Resolvendo conflitos
 
+- git init
+- git status
+- git add
+- git config --global "Mateus"
+- git config --global mateusribeiroazevedo7@gmail.com
+
+
 - Troca para a branch main
 - `git pull` para atualizar a branch main (pegar a mais atual do GitHub)
 
